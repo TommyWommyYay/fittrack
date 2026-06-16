@@ -29,7 +29,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origin_regex=r"http://(localhost|127\.0\.0\.1)(:\d+)?",
     allow_origins=[
-        "https://your-frontend-name.onrender.com",  # TODO: replace with actual Render frontend URL after deploying frontend
+        "https://fittrack-1-a4hs.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
