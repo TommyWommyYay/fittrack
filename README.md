@@ -1,4 +1,4 @@
-# FitTrack — Gym Workout Tracking System
+# FitTrack - Gym Workout Tracking System
 
 A full-stack university assignment project built with React (Vite), FastAPI and SQLite.
 
